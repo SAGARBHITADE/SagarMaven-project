@@ -19,6 +19,7 @@ public class LoginTest extends LonchBrowser {
 //	WebDriver ref;
 	Login lp;
 //llll
+	//I have chang the code
 	@BeforeClass
 	public void initObject() {
 		
@@ -33,8 +34,6 @@ public class LoginTest extends LonchBrowser {
 		Assert.assertFalse(false);
 
 	}
-
-	
 	}
 
 
